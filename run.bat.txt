@@ -1,0 +1,13 @@
+pytest -s -v -m "sanity" --html=C:\Users\Hp\PycharmProjects\pythonProject\reports\report1.html test_nopcom.py --browser chrome
+pytest -s -v -m "sanity" --html=C:\Users\Hp\PycharmProjects\pythonProject\reports\report1.html test_nopcom.py --browser firefox
+
+rem pytest -s -v -m "sanity and regression" --html=C:\Users\Hp\PycharmProjects\pythonProject\reports\report1.html test_nopcom.py --browser firefox
+rem pytest -s -v -m "regression" --html=C:\Users\Hp\PycharmProjects\pythonProject\reports\report1.html test_nopcom.py --browser firefox
+rem pytest -s -v -m "sanity or regression" --html=C:\Users\Hp\PycharmProjects\pythonProject\reports\report1.html test_nopcom.py --browser firefox
+
+rem pytest -s -v -m "sanity and regression" --html=C:\Users\Hp\PycharmProjects\pythonProject\reports\report1.html test_nopcom.py --browser chrome
+rem pytest -s -v -m "regression" --html=C:\Users\Hp\PycharmProjects\pythonProject\reports\report1.html test_nopcom.py --browser chrome
+rem pytest -s -v -m "sanity or regression" --html=C:\Users\Hp\PycharmProjects\pythonProject\reports\report1.html test_nopcom.py --browser chrome
+ 
+ 
+  

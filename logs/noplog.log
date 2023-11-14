@@ -1,0 +1,36 @@
+2023-11-14 10:41:30,316 - root - INFO - ******** Started logging function ***********
+2023-11-14 10:41:37,126 - root - INFO - ********* Logged in successfully ******
+2023-11-14 10:48:52,369 - root - INFO - ******** Started logging function ***********
+2023-11-14 10:48:59,573 - root - INFO - ********* Logged in successfully ******
+2023-11-14 10:49:57,888 - root - INFO - ******** Started logging function ***********
+2023-11-14 10:50:05,170 - root - INFO - ********* Logged in successfully ******
+2023-11-14 10:50:59,666 - root - INFO - ******** Started logging function ***********
+2023-11-14 10:51:06,704 - root - INFO - ********* Logged in successfully ******
+2023-11-14 10:56:23,800 - root - INFO - ******** Started logging function ***********
+2023-11-14 10:56:31,175 - root - INFO - ********* Logged in successfully ******
+2023-11-14 10:58:34,735 - root - INFO - ******** Started logging function ***********
+2023-11-14 10:58:40,941 - root - INFO - ********* Logged in successfully ******
+2023-11-14 11:07:10,894 - root - INFO - ******** Started logging function ***********
+2023-11-14 11:07:18,365 - root - INFO - ********* Logged in successfully ******
+2023-11-14 11:18:20,994 - root - INFO - ******** Started logging function ***********
+2023-11-14 11:18:28,577 - root - INFO - ********* Logged in successfully ******
+2023-11-14 11:21:50,976 - root - INFO - ******** Started logging function ***********
+2023-11-14 11:21:57,568 - root - INFO - ********* Logged in successfully ******
+2023-11-14 12:20:14,021 - root - INFO - ******** Started logging function ***********
+2023-11-14 12:20:21,872 - root - INFO - ********* Logged in successfully ******
+2023-11-14 12:21:59,798 - root - INFO - ******** Started logging function ***********
+2023-11-14 12:22:06,899 - root - INFO - ********* Logged in successfully ******
+2023-11-14 12:22:45,383 - root - INFO - ******** Started logging function ***********
+2023-11-14 12:22:53,154 - root - INFO - ********* Logged in successfully ******
+2023-11-14 12:22:56,140 - root - INFO - ***** Title of the page ********
+2023-11-14 12:22:59,178 - root - INFO - ***** Page title is printed
+2023-11-14 12:23:19,618 - root - INFO - ******** Started logging function ***********
+2023-11-14 12:23:27,540 - root - INFO - ********* Logged in successfully ******
+2023-11-14 12:23:30,869 - root - INFO - ***** Title of the page ********
+2023-11-14 12:23:34,352 - root - ERROR - ********** page title failed to match **********
+2023-11-14 12:44:16,473 - root - INFO - ******** Started logging function ***********
+2023-11-14 12:49:22,602 - root - INFO - ***** Title of the page ********
+2023-11-14 12:53:44,957 - root - INFO - ******** Started logging function ***********
+2023-11-14 12:53:53,480 - root - INFO - ********* Logged in successfully ******
+2023-11-14 12:53:55,801 - root - INFO - ***** Title of the page ********
+2023-11-14 12:53:58,212 - root - INFO - ***** Page title is printed
